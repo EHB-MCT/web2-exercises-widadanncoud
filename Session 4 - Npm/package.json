@@ -1,0 +1,22 @@
+{
+  "name": "web2-exercises-widadanncoud",
+  "version": "1.0.0",
+  "description": "sexy excersice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHB-MCT/web2-exercises-widadanncoud.git"
+  },
+  "author": "widad anncoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EHB-MCT/web2-exercises-widadanncoud/issues"
+  },
+  "homepage": "https://github.com/EHB-MCT/web2-exercises-widadanncoud#readme",
+  "dependencies": {
+    "cleave.js": "^1.6.0"
+  }
+}
